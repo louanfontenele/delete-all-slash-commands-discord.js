@@ -53,7 +53,7 @@ To run this project, you will need to add the following environment variables to
 
 ![npm](https://img.shields.io/npm/v/npm?label=npm&style=for-the-badge&logo=appveyor)
 ![npm](https://img.shields.io/npm/v/discord.js?label=Discord.js&style=for-the-badge&logo=appveyor)
-![npm](https://img.shields.io/npm/v/@discordjs/rest?label=DiscordJS%20Rest&style=for-the-badge&logo=appveyor)
+![npm](https://img.shields.io/npm/v/@discordjs/rest?label=@discord/rest&style=for-the-badge&logo=appveyor)
 
 
 ## Licenses
