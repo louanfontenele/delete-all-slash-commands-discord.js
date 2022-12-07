@@ -64,7 +64,7 @@ To run this project, you will need to add the following environment variables to
 
 ## References
 
- - [Deleting all commands](https://discordjs.guide/slash-commands/deleting-commands.html#deleting-specific-commands)
+ - [Deleting all commands](https://discordjs.guide/slash-commands/deleting-commands.html#deleting-all-commands)
 
 
 ## Feedback
